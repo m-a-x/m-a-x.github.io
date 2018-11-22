@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'As this group sat in that holly-hung parlor, with that big cloth sign in big gold capitals.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'It was with a depressed heart that I walked in the starlight for an hour and more, about the courtyard, and about the brewery, and about the ruined garden.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Or broken bottles in the furze act as a burning glass in the sun.'      
 };
 
 function status(statusText) {
